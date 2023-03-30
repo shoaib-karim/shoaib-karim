@@ -5,33 +5,43 @@
 
 <p align="left"> <p>Opensource:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=wordpress, shopify " />
+    <img src="https://skillicons.dev/icons?i=wordpress,shopify " />
   </a>
 </p>
 
 <p align="left"> <p>Page Building:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap" />
   </a>
 </p>
 
 <p align="left"> <p>Frontend:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flask,django" />
   </a>
 </p>
 
 <p align="left"> <p>Backend:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,django,express,py" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,express,py,c" />
   </a>
 </p>
 
-
-
 <p align="left"> <p>Database:</p>
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+  </a>
+</p>
+
+<p align="left"> <p>Version Control:</p>
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<p align="left"> <p>OS System:</p>
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </a>
 </p>
 
